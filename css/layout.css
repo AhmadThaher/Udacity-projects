@@ -1,0 +1,21 @@
+header,
+footer {
+    background-color: #1f2833;
+    color: #66fcf1;
+    padding: 1em 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+main {
+    padding: 20px;
+}

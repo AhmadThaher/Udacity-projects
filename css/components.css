@@ -1,0 +1,21 @@
+.services,
+.news {
+    background-color: #1f2833;
+    border: 1px solid #45a29e;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+button {
+    background-color: #66fcf1;
+    color: #0b0c10;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #45a29e;
+}
