@@ -19,3 +19,14 @@ nav ul li {
 main {
     padding: 20px;
 }
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+}

@@ -10,3 +10,15 @@ h2,
 h3 {
     color: #66fcf1;
 }
+
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
+}
+
+u {
+    text-decoration: underline;
+}
